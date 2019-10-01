@@ -5,10 +5,14 @@ Metodología Scrum (Semana 2)
 
 Es una metodología ágil,  para desarrollar  productos y sevicios innovadores
 
+>>>Scrum es un marco de trabajo para desarrollo ágil de software.
+
 ## ¿Dónde se aplica?
 
 Se la aplica principalmente en empresas grande, pero la podemos aplicar en diferentes proyectos ya sea uno grande o pequeño puesto que
 aprovecha al máximo los recursos con un  mínimo de inversión.
+
+>>>>Es un proceso que se aplican de manera regular un conjunto de buenas practicas para trabajar colaborativamente, en equipo y ontener el mejor resultado con una mejor calidad.
 
 ## Características de SCRUM
 
@@ -19,6 +23,9 @@ aprovecha al máximo los recursos con un  mínimo de inversión.
 + Entrega de un producto funcional a corto tiempo.
 
 + Trabajo en equipo
+
+- Existe varios Roles principales en Scrum Master, Product Owner,Team
+- Existe una pequeña reunion de 15 minutos en por las mañana 
 
 ## ¿Por qué usar SCRUM?
 
@@ -31,6 +38,8 @@ aprovecha al máximo los recursos con un  mínimo de inversión.
 + Adaptación a los cambios 
 
 + Contacto constante con las necesidades del usuario
+
+- Es una metodologia que facilita a los prograamdores a desarrollar correctamente para obtener un trabajo de calidad 
 
 # Roles de SCRUM
 
@@ -54,6 +63,9 @@ La desarrolla el product owner, son requerimientos que se designan en tarjetas
 ## Ciclo de trabajo 
 
 Tienen un ciclo corto tiempo de 2 a 4 semanas, se desarrollan las bitácoras de trabajo, al final del ciclo se entrega unn producto funcional.
+-Product Owner tiene mas acercamiento con el cliente y realiza el product backlog
+-El Scrum Master es encargado de controlar y guiar asu equipo de desarrollo .
+-El Team son los encargado de desarrollar el proyecto .
 
 ## Scrum Diario
 
@@ -62,8 +74,8 @@ Es una reunión diaria que realiza el equipo por 15 minutos  la junta se realiza
 Se realizan tres preguntas
 1. ¿Qué hciste ayer?
 2. ¿Qué vas a hacer hoy?
-3. ¿Hay akgún obstáculo para realizarlo?
-
+3. Que  problemas obtuviste 
+4. Alguna Inquietud 
 ## Presentación del producto
 
 Al finalizar el ciclo de trabajo, se presenta un producto con todos sus avances a todos los miembros relacionados con el proyecto, se revisa que todas las necesidades que son escritas en la bitácora del trabajo.
@@ -77,6 +89,17 @@ Los miembros del equipo analizan sus experiencias durante el ciclo de trabajo, s
 Al finalizar todas las etapa del ciclo nos permite darle una adaptación, mejoras al producto. El dueño del producto se reune con el equipo y se pone de acuerdo en las historias de usuario que realizarán, estimándoles niveles de dificultad, asignan tiempos, etc. 
 
 # Herramientas para SCRUM
+Planifica
+Crea historias de usuario e incidencias, planifica sprints y distribuye tareas entre tu equipo de software.
+
+Supervisa
+Prioriza y analiza el trabajo de tu equipo en su contexto y con una completa visibilidad.
+
+Lanza
+Realiza lanzamientos con confianza y seguridad, sabiendo que la información que tienes es siempre la más actualizada.
+
+Crea informes
+Mejora el rendimiento del equipo con datos visuales en tiempo real que tu equipo puede emplear.
 
 ## Backlog.
 
